@@ -8,10 +8,11 @@
  */
 
 // Your code :
-let str = { str : "1337"};
-let num = {num : 42};
-let bool = {bool : false};
-let undef = {undef : undefined};
+let obj = {
+str : "1337",
+num : 42,
+bool : false,
+undef : undefined,}
 
 //* Begin of tests
 const assert = require('assert')
