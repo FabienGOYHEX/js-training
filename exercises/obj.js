@@ -6,7 +6,7 @@
  *
  * @notions Functions, Operators
  */
-
+// just
 // Your code :
 let obj = {
 str : "1337",
