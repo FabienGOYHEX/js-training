@@ -5,6 +5,13 @@
  * and return the total
  *
  */
+let array = [1, 1, 1,10, 10, 10,24, -10, 10, 0, 0, 100]
+ function total (array){
+     return array.reduce( (accumulator, currentValue) => accumulator + currentValue)
+    
+ } 
+
+
 
 
 //* Begin of tests
