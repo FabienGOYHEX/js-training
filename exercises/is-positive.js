@@ -5,9 +5,7 @@
  * parameter and return true if the given number is
  * stricly positive, or false otherwise
  *
- */function myFunction(p1, p2) {
-  return p1 * p2;   // The function returns the product of p1 and p2
-}
+ */
 
 // Your code:
 
