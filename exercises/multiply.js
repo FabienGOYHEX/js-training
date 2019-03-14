@@ -9,6 +9,18 @@
  */
 
 // Your code :
+const num1 = 4;
+const num2 = 3; 
+let total = 0;
+let i = 1;
+function multiply(num1, num2){
+    while (i <= num2) {
+        total = total+ num1; 
+        i++;
+    }
+}
+return total 
+
 
 //* Begin of tests
 const assert = require('assert')
