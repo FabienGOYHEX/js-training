@@ -15,11 +15,11 @@ let total = 0;
 let i = 1;
 function multiply(num1, num2){
     while (i <= num2) {
-        total = total+ num1; 
+        total = total + num1; 
         i++;
     }
 }
-return total 
+return total
 
 
 //* Begin of tests
