@@ -9,8 +9,8 @@
 
 // Your code:
 
-function isPoitive(number) {
-    if (number <0){
+function isPositive(number){
+    if (number > 0){
     return true;
 }else {
     return false;
