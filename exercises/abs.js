@@ -10,6 +10,9 @@
  */
 
 // Your code :
+function abs(number1){
+    return Math.max(number1, -number1)
+}
 
 //* Begin of tests
 const assert = require('assert')
